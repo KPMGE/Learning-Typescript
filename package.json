@@ -1,0 +1,11 @@
+{
+  "name": "Learning-Typecript",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/KPMGE/Learning-Typescript.git",
+  "author": "KPMGE <jesuskevin254@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "typescript": "^4.4.3"
+  }
+}
