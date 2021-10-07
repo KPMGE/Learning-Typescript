@@ -3,7 +3,6 @@
     "noImplicitAny": true,
     "strictNullChecks": true,
     "strict": true,
-    "strictFunctionTypes": true,
-    "noImplicitReturns": true
+    "strictFunctionTypes": true
   }
 }
